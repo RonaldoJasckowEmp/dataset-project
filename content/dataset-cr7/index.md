@@ -18,5 +18,5 @@ Here you can explore detailed information about Cristiano Ronaldo's goals, inclu
 />
 
 <a href="https://www.kaggle.com/datasets/azminetoushikwasi/cr7-cristiano-ronaldo-all-club-goals-stats" target="_blank" rel="noopener noreferrer">Fonte: Kaggle</a>
-
+<br />
 <BackButton/>
