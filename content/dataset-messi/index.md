@@ -17,4 +17,7 @@ Here you can explore detailed information about Cristiano Ronaldo's goals, inclu
     ]}
 />
 
+
+<a href="https://www.kaggle.com/datasets/azminetoushikwasi/-lionel-messi-all-club-goals" target="_blank" rel="noopener noreferrer">Fonte: Kaggle</a>
+
 <BackButton/>
