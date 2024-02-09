@@ -1,9 +1,6 @@
-
-# My Dataset
-
-Built with PortalJS 
-
-## Catalog 
+## My Dataset Catalog
+Welcome to the Dataset Catalog powered by PortalJS. 
+Here, you can explore datasets related to the careers of two football legends: Cristiano Ronaldo and Lionel Messi.
 
 <Catalog
   datasets={[
@@ -22,7 +19,7 @@ Built with PortalJS
         reference: 'Kaggle',
         'size-of-dataset': 164,
         'task-description': 'Hierarchical (offensive/not; untargeted/targeted; person/group/other)',
-        title: 'All Club Goals from Cristiano Ronaldo'
+        title: `Cristiano Ronaldo's All Goals`
       },
       url_path: 'dataset-cr7'
     },
@@ -41,7 +38,7 @@ Built with PortalJS
         reference: 'Kaggle',
         'size-of-dataset': 164,
         'task-description': 'Hierarchical (offensive/not; untargeted/targeted; person/group/other)',
-        title: 'All Club Goals from Messi'
+        title: `Lionel Messi's All Goals`
       },
       url_path: 'dataset-messi'
     }

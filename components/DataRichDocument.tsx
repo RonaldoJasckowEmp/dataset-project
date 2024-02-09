@@ -16,6 +16,8 @@ const components = {
   FlatUiTable: dynamic(() => import('@portaljs/components').then(mod => mod.FlatUiTable)),
   NewComponent: dynamic(() => import('./CustomComponent').then(mod => mod.default)),
   BackButton: dynamic(() => import('./BackButton').then(mod => mod.default)),
+  OpponentCountChart: dynamic(() => import('./OpponentCountChart').then(mod => mod.default)),
+  YearCountChart: dynamic(() => import('./YearCountChart').then(mod => mod.default)),
 } as any;
 
 export default function DRD({ source }: { source: any }) {
